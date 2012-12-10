@@ -1,0 +1,6 @@
+*~
+python-fastimport-*-*/
+*.tar.gz
+*.tar.bz2
+*.tgz
+*.tar.xz
