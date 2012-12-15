@@ -1,0 +1,17 @@
+python-fastimport-0.9.2-1 has been added to the Cygwin distribution.
+
+python-fastimport is the Python parser that was originally developed for bzr-fastimport but was extracted so that it can be used by other projects.  It is currently used by bzr-fastimport and dulwich. hg-fastimport and git-remote-hg use a slightly modified version of it.
+
+Ken Brown
+
+            *** CYGWIN-ANNOUNCE UNSUBSCRIBE INFO ***
+
+If you want to unsubscribe from the cygwin-announce mailing list, look at the "List-Unsubscribe: " tag in the email header of this message.  Send email to the address specified there.  It will be in the format:
+
+  cygwin-announce-unsubscribe-you=yourdomain.com@cygwin.com
+
+If you need more information on unsubscribing, start reading here:
+
+  http://sourceware.org/lists.html#unsubscribe-simple
+
+Please read *all* of the information on unsubscribing that is available starting at the above URL.
