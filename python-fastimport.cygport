@@ -1,7 +1,7 @@
 inherit distutils
 NAME="python-fastimport"
 VERSION=0.9.2
-RELEASE=2
+RELEASE=1
 CATEGORY="Python"
 SUMMARY="Python parser for fastimport (VCS interchange format)"
 DESCRIPTION="\
@@ -11,5 +11,5 @@ projects.  It is currently used by bzr-fastimport and
 dulwich. hg-fastimport and git-remote-hg use a slightly modified
 version of it."
 HOMEPAGE="https://launchpad.net/python-fastimport"
-SRC_URI="https://launchpad.net/${NAME}/trunk/${VERSION}/+download/${ORIG_PN}-${VERSION}.tar.gz"
+SRC_URI="https://launchpad.net/${NAME}/trunk/${VERSION}/+download/${NAME}-${VERSION}.tar.gz"
 SRC_DIR="${NAME}-${VERSION}"
